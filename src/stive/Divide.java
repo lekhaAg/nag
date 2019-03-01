@@ -9,6 +9,7 @@ public class Divide {
 		int z;
 		 z=a/b;
 		 System.out.println(z);
+		System.out.println("its right operation");
 		
 
 	}
