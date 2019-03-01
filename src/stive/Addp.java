@@ -9,6 +9,7 @@ public class Addp {
         y=20;
         z=x+y;
         System.out.println(z);
+		System.out.println("lekha");
         
 
 	}
